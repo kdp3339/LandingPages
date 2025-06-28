@@ -140,7 +140,7 @@ const Navbar = ({
           {/* Logo/Brand */}
           <div className="flex-shrink-0">
             <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              DemoLand
+              DemoByKishan
             </h1>
           </div>
 
@@ -869,7 +869,7 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="col-span-1 md:col-span-2">
             <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent mb-4">
-              DemoLand
+              DemoByKishan
             </h3>
             <p className="text-gray-400 leading-relaxed max-w-md">
               Empowering creators and innovators with cutting-edge tools to build extraordinary digital experiences.
